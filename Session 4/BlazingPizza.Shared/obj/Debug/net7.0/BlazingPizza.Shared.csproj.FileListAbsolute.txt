@@ -1,0 +1,16 @@
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.staticwebassets.runtime.json
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.deps.json
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.dll
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.pdb
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.AssemblyReference.cache
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.AssemblyInfo.cs
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.CopyComplete
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.dll
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\obj\Debug\net7.0\refint\BlazingPizza.Shared.dll
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.pdb
+C:\Users\mathy\OneDrive\Bureau\04-refactor-state-management\BlazingPizza.Shared\obj\Debug\net7.0\ref\BlazingPizza.Shared.dll
